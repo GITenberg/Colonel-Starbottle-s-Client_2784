@@ -1,0 +1,34 @@
+_repo: Colonel-Starbottle-s-Client_2784
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Harte, Bret
+    alias: Harte, Francis Bret
+    birthdate: 1836
+    deathdate: 1902
+    gutenberg_agent_id: '593'
+    url: http://www.gutenberg.org/2009/agents/593
+    wikipedia: http://en.wikipedia.org/wiki/Bret_Harte
+description: Society has forgiven Jo Corbin for killing a man, but can he forgive
+  himself? Will the Postmistress lose all in a bid to help a friend escape justice?
+  Will the new teaching assistant's unorthodox ways tame the unruly pioneer children?
+  These are just three of the nine wonderful short stories from Bret Harte, set in
+  wild and wooly 19th century California.
+gutenberg_issued: '2006-03-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2784'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Western stories'
+- !lcc 'PS'
+- GITenberg
+tableOfContents: Colonel Starbottle's client -- The postmistress of Laurel Run --
+  A night at "Hays" -- Johnson's "old woman" -- The new assistant at Pine Clearing
+  school -- In a pioneer restaurant -- A treasure of the galleon -- Out of a pioneer's
+  trunk --The ghosts of Stukeley castle
+title: Colonel Starbottle's Client
+url: http://www.gutenberg.org/ebooks/2784
