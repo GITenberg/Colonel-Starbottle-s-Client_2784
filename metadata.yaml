@@ -1,5 +1,8 @@
 _repo: Colonel-Starbottle-s-Client_2784
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Harte, Bret
@@ -14,6 +17,8 @@ description: Society has forgiven Jo Corbin for killing a man, but can he forgiv
   Will the new teaching assistant's unorthodox ways tame the unruly pioneer children?
   These are just three of the nine wonderful short stories from Bret Harte, set in
   wild and wooly 19th century California.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2784#Colonel-Starbottle-s-Client
 gutenberg_issued: '2006-03-27'
 gutenberg_type: Text
 identifiers:
